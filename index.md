@@ -13,3 +13,7 @@ import numpy as np
 
 p = np.zeros(0)
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
