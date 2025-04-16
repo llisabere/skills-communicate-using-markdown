@@ -2,6 +2,14 @@
 
 ### Smaller header
 
-Now we will test images
+### Test images
 
-![Image of cartoon black cat](https://cdn.pixabay.com/photo/2021/11/01/21/36/cartoon-cat-6761858_1280.png)
+![Image of cartoon black cat](https://gifdb.com/images/high/angry-black-cat-cartoon-oftm3bpqu6awsdtr.gif)
+
+### Test code block
+
+``` python3
+import numpy as np
+
+p = np.zeros(0)
+```
